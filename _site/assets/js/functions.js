@@ -4,6 +4,7 @@ $( document ).ready(function() {
 	workLoad();
 
 	jQuery("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
+	jQuery(".blurb").fitText(1, { minFontSize: '10px', maxFontSize: '20px' });
 
 });
 
