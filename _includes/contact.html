@@ -1,0 +1,15 @@
+<script src="https://use.fontawesome.com/b064447799.js"></script>
+<section class="alt-section section-contact">
+
+  <h3 id="contact">Contact</h3>
+
+  <div class="social-links">
+    {% for icon in site.data.portfolio.social %} 
+      <a href = "{{ icon.url }}" class="fa fa-{{ icon.icon }} fa-5x" aria-hidden="true"></a>
+    {% endfor %}
+  </div>
+
+  <hr class="bar">
+
+  <a class="biglink" href="mailto:{{site.data.portfolio.email}}">Mail me!</a>
+</section>

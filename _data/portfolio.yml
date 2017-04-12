@@ -1,0 +1,47 @@
+# Site settings
+title: Anshul Rai
+email: anshulrai@protonmail.com
+description: "Learner // Coder // Footballer"
+
+# Menu Item List
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Contact, url: '#contact'}
+
+#Skill List
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Learning, value: '9'}
+- {name: Organization, value: '6'}
+- {name: Programming, value: '6'}
+- {name: Design, value: '2'}
+- {name: Testing, value: '5'}
+- {name: Teamwork, value: '9'}
+- {name: Resourcefulness, value: '9'}
+
+#Work Section
+
+work:
+- {name: Chennai Metro, folder: 'proj-1'}
+- {name: Cloudkare, folder: 'proj-2'}
+- {name: NIT Trichy, folder: 'proj-3'}
+- {name: IISc Bangalore, folder: 'proj-4'}
+
+
+#Social
+
+social:
+- {icon: 'github', url: 'https://github.com/anshulrai'}
+- {icon: 'linkedin', url: 'https://www.linkedin.com/in/anshul-rai/'}
+- {icon: 'medium', url: 'https://medium.com/@AnshulRai'}
+- {icon: 'stack-overflow', url: 'https://stackoverflow.com/users/4332742/anshul-rai?tab=profile'}
+- {icon: 'soundcloud', url: 'https://soundcloud.com/anshulrai'}
+
+logo: logo.svg
+bg-img: background.jpg
+avatar: drink.jpg
+
+blurb: <strong> Hi, I'm Anshul Rai</strong> Blah blah

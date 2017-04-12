@@ -1,0 +1,35 @@
+<section class = "about">
+ 
+  <h3 id= "about-me">About Myself</h3>
+
+  <div class = "face-lockup">
+
+    <div class="face-img"></div>
+
+    <div class="icon-code">{% include icons/icon-code.html %}</div>
+    <div class="icon-book">{% include icons/icon-book.html %}</div>
+    <div class="icon-football">{% include icons/icon-football.html %}</div>
+    <div class="icon-people">{% include icons/icon-people.html %}</div>
+
+
+  </div>
+
+  <div class="blurb">
+    <p>{{ site.data.portfolio.blurb }}</p>
+  </div>
+
+  <div class="skill-lockup">
+
+    {% for skill in site.data.portfolio.skills %}
+
+      <div class="skill-unit">
+        <div class="skill-label"> {{ skill.name }}</div>
+        <div class="skill-icons skill-{{ skill.value }}">
+          <span></span><span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+      </div>
+
+      {% endfor %}
+  </div>
+</section>
