@@ -200,7 +200,7 @@ td, th {
     box-shadow: 0 2.5em 0 0; } }
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #BD5248;
+  color: #393A38;
   font-weight: bold; }
 
 .gigantic {
@@ -246,12 +246,12 @@ hr {
   height: 0; }
 
 a {
-  color: #BD5248;
+  color: #393A38;
   text-decoration: none;
   outline: 0; }
 
 a:hover, a:focus {
-  color: #d89993; }
+  color: #6c6e6a; }
 
 ::selection {
   background: #FFF498; }
@@ -269,18 +269,19 @@ body {
   -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background: #FFF498;
+  background: #393A38;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Open Sans" sans-serif;
+  font-family: Open sans-serif;
   color: #FFF;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
 
 header nav a, header .kicker, footer .lockup .content-wrap a, h3 {
   font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase; }
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 3px; }
 
 header {
   height: 100vh;
@@ -303,7 +304,7 @@ header {
     font-weight: 700;
     color: white;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.1em;
     margin-bottom: 20px;
     clear: both;
     padding-top: 50px; }
@@ -313,7 +314,6 @@ header {
       border: white solid 10px; }
   header .kicker {
     text-align: center;
-    letter-spacing: 0.05em;
     color: white;
     line-height: 1; }
 
@@ -356,7 +356,7 @@ footer {
   min-height: 100vh; }
 
 h3 {
-  color: #BD5248;
+  color: #937979;
   text-align: center;
   padding: 50px 0 30px; }
 
@@ -408,7 +408,7 @@ h3 {
     background: #F6F6F8;
     border-radius: 50%; }
     .face-lockup [class^="icon-"] path {
-      fill: #BD5248; }
+      fill: #393A38; }
     .face-lockup [class^="icon-"].icon-code {
       -webkit-box-ordinal-group: 1;
       -moz-box-ordinal-group: 1;
@@ -462,7 +462,9 @@ h3 {
   margin: 50px auto 50px;
   font-size: 24px;
   text-align: center;
-  font-weight: 300s; }
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 1.7em; }
 
 .skill-lockup {
   max-width: 700px;
@@ -483,7 +485,7 @@ h3 {
       display: inline-block;
       height: 14px;
       width: 14px;
-      background-color: #BD5248;
+      background-color: #DB5461;
       margin-right: 5px;
       border-radius: 50%; }
       .skill-lockup .skill-icons span:after {
@@ -503,10 +505,10 @@ h3 {
       width: 100%;
       margin: 0 auto; } }
 .skill-lockup .skill-icons.skill-1 span:nth-child(n+2), .skill-lockup .skill-icons.skill-2 span:nth-child(n+3), .skill-lockup .skill-icons.skill-3 span:nth-child(n+4), .skill-lockup .skill-icons.skill-4 span:nth-child(n+5), .skill-lockup .skill-icons.skill-5 span:nth-child(n+6), .skill-lockup .skill-icons.skill-6 span:nth-child(n+7), .skill-lockup .skill-icons.skill-7 span:nth-child(n+8), .skill-lockup .skill-icons.skill-8 span:nth-child(n+9), .skill-lockup .skill-icons.skill-9 span:nth-child(n+10), .skill-lockup .skill-icons.skill-10 span:nth-child(n+11) {
-  background: #FFF498; }
+  background: #393A38; }
 
 .alt-section {
-  background-color: #FFF;
+  background-color: #DDDFDF;
   overflow-x: hidden;
   padding-bottom: 40px; }
   .alt-section .work-belt {
@@ -534,6 +536,7 @@ h3 {
       padding-top: 18%;
       overflow: hidden;
       cursor: pointer;
+      background-color: #DDDFDF;
       background-position: center center;
       background-repeat: no-repeat;
       background-size: contain;
@@ -550,7 +553,7 @@ h3 {
         right: 0px;
         left: 0px;
         height: 100%;
-        background: rgba(189, 82, 72, 0.8);
+        background: rgba(57, 58, 56, 0.8);
         text-align: center;
         -webkit-transition: 350ms;
         -moz-transition: 350ms;
@@ -614,7 +617,7 @@ h3 {
   position: relative;
   display: none; }
   .work-container h4 {
-    color: #BD5248;
+    color: #393A38;
     font-weight: 300;
     text-transform: uppercase;
     font-size: 24px;
@@ -643,7 +646,7 @@ h3 {
     margin-left: 60px; } }
 .section-contact {
   text-align: center;
-  background: #C4CAD0; }
+  background: #F0F2EF; }
 
 .social-links {
   max-width: 700px;
@@ -687,7 +690,7 @@ h3 {
 .bar {
   width: 250px;
   height: 0px;
-  border-top: 4px solid #BD5248;
+  border-top: 4px solid #393A38;
   margin: 0px auto auto; }
 
 .biglink {
@@ -698,7 +701,7 @@ h3 {
 #particles-js {
   width: 100%;
   height: 100%;
-  background-color: #000;
+  background-color: #393A38;
   background-image: url("");
   background-size: cover;
   background-position: 50% 50%;
