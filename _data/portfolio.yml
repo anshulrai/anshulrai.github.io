@@ -13,14 +13,14 @@ menu:
 #Skill List
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Learning, value: '9'}
-- {name: Organization, value: '6'}
+- {name: Communication, value: '8'}
+- {name: Learning, value: '8'}
+- {name: Organization, value: '5'}
 - {name: Programming, value: '6'}
 - {name: Design, value: '2'}
 - {name: Testing, value: '5'}
-- {name: Teamwork, value: '9'}
-- {name: Resourcefulness, value: '9'}
+- {name: Teamwork, value: '7'}
+- {name: Resourcefulness, value: '8'}
 
 #Work Section
 
