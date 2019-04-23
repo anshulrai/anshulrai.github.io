@@ -34,11 +34,11 @@ work:
 #Social
 
 social:
-- {icon: 'github', url: 'https://github.com/anshulrai'}
-- {icon: 'linkedin', url: 'https://www.linkedin.com/in/anshul-rai/'}
 - {icon: 'medium', url: 'https://medium.com/@AnshulRai'}
+- {icon: 'linkedin', url: 'https://www.linkedin.com/in/anshul-rai/'}
+- {icon: 'github', url: 'https://github.com/anshulrai'}
+- {icon: 'kaggle', url: 'https://www.kaggle.com/anshulrai'}
 - {icon: 'stack-overflow', url: 'https://stackoverflow.com/users/4332742/anshul-rai?tab=profile'}
-- {icon: 'soundcloud', url: 'https://soundcloud.com/anshulrai'}
 
 logo: logo.svg
 bg-img: background.jpg
