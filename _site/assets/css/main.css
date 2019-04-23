@@ -285,7 +285,7 @@ header nav a, header .kicker, footer .lockup .content-wrap a, h3 {
 
 header {
   height: 100vh;
-  background: url(../img/logo.svg) no-repeat, url(../img/tempe.jpeg) center center;
+  background: url(../img/logo.svg) no-repeat, url(../img/tempe.jpg) center center;
   background-size: 50px 50px, cover;
   background-position: 30px 20px, 50% 50%;
   background-blend-mode: overlay, normal; }
