@@ -1,7 +1,7 @@
 # Site settings
 title: Anshul Rai
-email: anshulrai@protonmail.com
-description: "Learner // Coder // Engineer"
+email: anshulrai@asu.edu
+description: "🔴⚫"
 
 # Menu Item List
 
@@ -15,8 +15,8 @@ menu:
 skills:
 - {name: Communication, value: '8'}
 - {name: Learning, value: '8'}
-- {name: Organization, value: '5'}
-- {name: Programming, value: '6'}
+- {name: Organization, value: '7'}
+- {name: Programming, value: '7'}
 - {name: Design, value: '2'}
 - {name: Testing, value: '5'}
 - {name: Teamwork, value: '7'}
@@ -42,6 +42,6 @@ social:
 
 logo: logo.svg
 bg-img: background.jpg
-avatar: drink.jpg
+avatar: lab_photo.jpg
 
 blurb: <strong> Hi, I'm Anshul Rai.</strong>
