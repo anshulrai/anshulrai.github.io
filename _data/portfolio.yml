@@ -1,7 +1,7 @@
 # Site settings
 title: Anshul Rai
 email: anshulrai[at]protonmail[dot]com
-description: "Lifelong Learner"
+description: "Learner"
 
 # Menu Item List
 
@@ -25,8 +25,8 @@ skills:
 #Work Section
 
 work:
-- {name: Chennai Metro, folder: 'proj-1'}
-- {name: Cloudkare, folder: 'proj-2'}
+# - {name: Chennai Metro, folder: 'proj-1'}
+# - {name: Cloudkare, folder: 'proj-2'}
 - {name: NIT Trichy, folder: 'proj-3'}
 - {name: IISc Bangalore, folder: 'proj-4'}
 
