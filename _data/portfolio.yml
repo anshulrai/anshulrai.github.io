@@ -27,10 +27,11 @@ skills:
 work:
 # - {name: Chennai Metro, folder: 'proj-1'}
 # - {name: Cloudkare, folder: 'proj-2'}
+- {name: Dolby Laboratories, folder: 'proj-8'}
 - {name: Enthought, folder: 'proj-6'}
 - {name: ASU, folder: 'proj-7'}
-- {name: NIT Trichy, folder: 'proj-3'}
-- {name: IISc Bangalore, folder: 'proj-4'}
+# - {name: NIT Trichy, folder: 'proj-3'}
+# - {name: IISc Bangalore, folder: 'proj-4'}
 
 
 #Social
@@ -46,4 +47,4 @@ logo: logo.svg
 bg-img: tempe.jpg
 avatar: lab_photo.jpg
 
-blurb: <strong> Hi, I'm Anshul Rai.</strong>
+blurb: <strong> Hi, I'm Anshul.</strong>
